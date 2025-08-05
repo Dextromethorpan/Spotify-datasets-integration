@@ -1,0 +1,62 @@
+[
+  {
+    "id": 2,
+    "chords": "<intro_1> E D A/Cs E D A/Cs <verse_1> E D A/Cs E D A/Cs E D A/Cs E D A C <chorus_1> E G D A E G D A E G D A C D E D A/Cs <verse_2> E D A/Cs E D A/Cs E D A/Cs E D A C <chorus_2> E G D A E G D A E G D A C D <bridge_1> E C G D E C G D E C G D C D E G E G D A E G D A E G D A C D <chorus_3> E G D A E G D A E G D A C D <bridge_2> E C G D E C G D E C G D C D E",
+    "release_date": "2003-01-01",
+    "genres": "'alternative metal' 'alternative rock' 'nu metal' 'permanent wave' 'pop rock' 'post-grunge'",
+    "decade": 2000.0,
+    "rock_genre": "pop rock",
+    "artist_id": "artist_2",
+    "main_genre": "metal",
+    "spotify_id": "2ffjz2r8hxi5dhcmf3bo6c",
+    "spotify_artist_id": "694QW15WkebjcrWgQHzRYF"
+  },
+  {
+    "id": 3,
+    "chords": "<intro_1> Csmin <verse_1> A Csmin A Csmin A Csmin A B <chorus_1> Csmin A Fsmin A B <verse_2> Csmin A Csmin A Csmin A Csmin A Fsmin <chorus_2> Csmin A Fsmin A B Csmin A Fsmin Csmin <bridge_1> A Csmin A Csmin A Csmin A Csmin <chorus_3> Dsmin B Gsmin B Cs Dsmin B Gsmin Dsmin Csmin A Fsmin Csmin A Fsmin Csmin",
+    "release_date": "2003-01-01",
+    "genres": "'alternative metal' 'canadian rock' 'funk metal' 'nu metal' 'post-grunge'",
+    "decade": 2000.0,
+    "rock_genre": "canadian rock",
+    "artist_id": "artist_3",
+    "main_genre": "metal",
+    "spotify_id": "5kiy8szenvcpyiekfgrr3y",
+    "spotify_artist_id": "0niJkG4tKkne3zwr7I8n9n"
+  },
+  {
+    "id": 4,
+    "chords": "<intro_1> D Dmaj7 D Dmaj7 <verse_1> Emin A D G Emin A D G Emin A D G Emin A D <chorus_1> Emin A D G Emin A D G D/Fs Emin A D G D/Fs Emin A D G <verse_2> Emin A D G Emin A D G Emin A D G Emin A D G Emin A D G Emin A D <chorus_2> Emin A D G Emin A D G D/Fs Emin A D G D/Fs Emin A D G <bridge_1> Emin A D G D/Fs Emin A D G D/Fs Emin A D G D/Fs Emin A D <chorus_3> Emin A D G Emin A D G D/Fs Emin A D G D/Fs Emin A D G <outro_1> Emin A D G D/Fs Emin A D G D/Fs Emin A D G D/Fs Emin A D G <outro_2> Emin A D G D/Fs",
+    "release_date": "2022-09-23",
+    "genres": null,
+    "decade": 2020.0,
+    "rock_genre": null,
+    "artist_id": "artist_4",
+    "main_genre": null,
+    "spotify_id": "01ttacuqylcrbzq4zziqws",
+    "spotify_artist_id": "17BfKBemmMGO5ZAK25wraW"
+  },
+  {
+    "id": 5,
+    "chords": "<intro_1> C <verse_1> G C G C <chorus_1> F Dmin G Dmin G C <verse_2> G C <chorus_2> F Dmin G Dmin G C F Dmin G Dmin7 G C <verse_3> G C <chorus_3> F Dmin G Dmin G C <chorus_4> F Dmin G Dmin G C",
+    "release_date": "2023-02-10",
+    "genres": "'modern country pop'",
+    "decade": 2020.0,
+    "rock_genre": null,
+    "artist_id": "artist_5",
+    "main_genre": "pop",
+    "spotify_id": "3zuecdrwc3iqrnsjhnof3g",
+    "spotify_artist_id": "4GGfAshSkqoxpZdoaHm7ky"
+  },
+  {
+    "id": 6,
+    "chords": "<intro_1> C G C G <verse_1> C G C G C Bmin Emin Amin D <chorus_1> G C D G C D G D/Fs F E Amin D G C D G C D G D/Fs F E Amin D <verse_2> C G C G C Bmin Emin Amin D <chorus_2> G C D G C D G D/Fs F E Amin D G C D G C D G D/Fs F E Amin D <chorus_3> G C D G C D G D/Fs F E Amin D G C D G C D G D/Fs F E Amin D C G C G",
+    "release_date": "2018-08-24",
+    "genres": "'classic opm' 'opm'",
+    "decade": 2010.0,
+    "rock_genre": null,
+    "artist_id": "artist_6",
+    "main_genre": null,
+    "spotify_id": "2zgr6pfe273k7nnu8ackjk",
+    "spotify_artist_id": "33kC1w8s5cXEi1zyJZuqSI"
+  }
+]

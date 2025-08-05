@@ -1,0 +1,25 @@
+# Spotify Datasets Integration Project - Dependencies
+
+# Core data processing
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Database operations (sqlite3 is built-in to Python)
+
+# Testing framework
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Optional: For better CSV handling and encoding detection
+chardet>=5.0.0
+
+# Optional: For progress bars during long operations
+tqdm>=4.64.0
+
+# Optional: For more robust date parsing
+python-dateutil>=2.8.0
+
+# Development and code quality (optional)
+black>=22.0.0
+flake8>=5.0.0
+mypy>=0.991

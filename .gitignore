@@ -1,0 +1,14 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+.vscode/
+*.log
+.env
+/data/
+# Ignore specific large .sqlite files in /results
+/results/spotify_id_songs.sqlite
+/results/spotify_id_songs_from_all_datasets.sqlite
+/results/spotify_id_songs_in_kaggle.sqlite
+/results/spotify_id_songs_in_maharshipandya.sqlite
